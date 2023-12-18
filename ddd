@@ -1,0 +1,2 @@
+link = "https://github.com/slaz1x/wh/blob/main/C.png"
+print(link.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/"))
